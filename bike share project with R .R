@@ -1,4 +1,6 @@
 # data manipulated
+install.packages("dylyr")
+install.packages("tidyr")
 #renamed a wrong named column in july month data
 july.ride.data <- rename(july.ride.data,week_day = weekday)
 
