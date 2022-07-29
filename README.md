@@ -21,5 +21,6 @@
 
 -- WHICH BIKE WORKS THE MOST
 
-![Rplot16](https://user-images.githubusercontent.com/109203514/181681665-2503b98e-67b2-48f6-b4f1-96a2c8b3ff78.png)
+![Rplot15](https://user-images.githubusercontent.com/109203514/181681723-ed6cd392-c310-4ed7-a7c3-c80892fde55e.png)
+
 
