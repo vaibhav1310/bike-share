@@ -5,8 +5,10 @@
 
 -- dataset link - https://drive.google.com/file/d/10wAhL2By37BhXmoHeNVJTsGhcho6gAQL/view?usp=sharing 
 
-![image](https://user-images.githubusercontent.com/109203514/182529350-44561988-f37d-4e31-ac58-e49b26dc2368.png)
+#  About project
 
+   ![image](https://user-images.githubusercontent.com/109203514/182530536-178c6dc8-fe88-4a25-bb64-6541e63f1325.png)
+   
 
 # Findings of analysis
 
